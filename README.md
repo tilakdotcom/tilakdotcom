@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Tilak!</h1>
 
 <p align="center">
-  <a href="https://tilakdotcom.github.io" target="_blank"><img src="https://img.shields.io/badge/🌐 Portfolio-000?style=flat&logo=github&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://tilakdotcom.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🌐 Portfolio-000?style=flat&logo=github&logoColor=white" alt="Portfolio" /></a>
   <a href="https://github.com/tilakdotcom" target="_blank"><img src="https://img.shields.io/badge/💻 GitHub-000?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/tilakdotcom/" target="_blank"><img src="https://img.shields.io/badge/🔗 LinkedIn-000?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
